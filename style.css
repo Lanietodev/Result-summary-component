@@ -170,7 +170,7 @@ box-shadow:  1.25rem 1.25rem 3.75rem #bebebe,
   .wrapper{
     display: flex;
     flex-direction: row;
-    width:60vw ;
+    width:55vw ;
     box-shadow:  1.25rem 1.25rem 3.75rem #bebebe,
              -1.25rem -1.25rem 3.75rem #ffffff;
     border-top-left-radius: 2.5rem;
