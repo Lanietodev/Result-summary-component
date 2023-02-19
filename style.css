@@ -131,7 +131,7 @@ main{
     flex-direction: column;
    justify-content: center;
    align-items: center;
-    padding: 1.25rem;
+   padding: 1.25rem;
   }
   .main{
     width: 75%;
