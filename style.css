@@ -171,13 +171,12 @@ main{
   .wrapper{
     display: flex;
     flex-direction: row;
-    width: 60vw;
     box-shadow:  1.25rem 1.25rem 3.75rem #bebebe,
              -1.25rem -1.25rem 3.75rem #ffffff;
     border-radius: 2.5rem;
   }
   .top, .bottom{
-    width:50%;
+    width:350px;
   }
   .top{
     border-radius: 2.5rem;
@@ -198,7 +197,6 @@ main{
   }
   .top p{
     margin-top: .9375rem;
-    font-size: 1.3vw;
   }
   .bottom{
     padding:1.875rem 2.1875rem;
