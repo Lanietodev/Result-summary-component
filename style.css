@@ -91,25 +91,25 @@ main{
 .reaction{
   background-color: hsla(0, 100%, 67%, 0.05);
 }
-.reaction .left_side>h4{
+.reaction .left_side>h3{
   color: hsl(0, 100%, 67%);
 }
 .memory{
   background-color: hsla(39, 100%, 56%, 0.05);
 }
-.memory .left_side>h4{
+.memory .left_side>h3{
   color: hsl(39, 100%, 56%);
 }
 .verbal{
   background-color: hsla(166, 100%, 37%, 0.05);
 }
-.verbal .left_side>h4{
+.verbal .left_side>h3{
   color: hsl(166, 100%, 37%);
 }
 .visual{
   background-color: hsla(234, 85%, 45%, 0.05);
 }
-.visual .left_side>h4{
+.visual .left_side>h3{
   color: hsl(234, 85%, 45%);
 }
 .bottom button{
@@ -173,8 +173,7 @@ box-shadow:  1.25rem 1.25rem 3.75rem #bebebe,
     width: 60vw;
     box-shadow:  1.25rem 1.25rem 3.75rem #bebebe,
              -1.25rem -1.25rem 3.75rem #ffffff;
-    border-top-left-radius: 2.5rem;
-    border-bottom-left-radius: 2.5rem
+    border-radius: 2.5rem;
   }
   .top, .bottom{
     width:50%;
